@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Florrap
-- 👀 I’m interested in learning different languages.
-- 🌱 I’m currently learning Java.
+-  Hi, I’m @Florrap
+-  I’m interested in learning different languages.
+-  I’m currently learning Java.
 
 <!---
 Florrap/Florrap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
